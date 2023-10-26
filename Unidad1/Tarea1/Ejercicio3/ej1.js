@@ -10,5 +10,5 @@ function muestraNombre(persona) {
     console.log(`Nombre: ${nombre}, Apellido: ${apellido}, Edad: ${edad}, Ciudad: ${ciudad}`);
   }
   
-  const yoMismo = { nombre: "Héctor", apellido: "Cevallos", edad: 42, ciudad: "Madrid" };
-  muestraNombre(yoMismo);
+  const persona = { nombre: "Héctor", apellido: "Cevallos", edad: 42, ciudad: "Madrid" };
+  muestraNombre(persona);
