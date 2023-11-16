@@ -1,4 +1,4 @@
-# Clases en JavaScript - Implementaciones de Ejemplo
+# Clases en JavaScript - Implementaciones
 
 Este repositorio contiene implementaciones de ejemplo de clases en JavaScript basadas en varios requisitos y ejemplos del video sobre React
 de OpenWebinars.
