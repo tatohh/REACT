@@ -17,9 +17,9 @@ Cada módulo en JavaScript tiene su propio ámbito o contexto. Esto significa qu
 
 ## Exportación con nombre. Qué significa. Ejemplo
 Significa que las entidades (variables, funciones, clases, etc.) se exportan con un nombre específico y deben ser importadas usando ese mismo nombre Ejemplo:
-### Archivo: uso_operaciones.js
+### Archivo: [Exportación con nombre] (https://github.com/iesgrancapitan-dwec/ud1-a3-modulos-es6-tatohh/blob/main/tarea3/uso_operaciones.js)
 
 ## Alias. Cómo se establecen. Ejemplos
 Los alias se utilizan para renombrar exportaciones o importaciones. Esto es útil cuando quieres evitar conflictos de nombres o simplificar los nombres para los consumidores del modulo.
-### Archivo: uso_con_alias.js
+### Archivo: [Exportación con Alias] (https://github.com/iesgrancapitan-dwec/ud1-a3-modulos-es6-tatohh/blob/main/tarea3/uso_con_alias.js)
 
