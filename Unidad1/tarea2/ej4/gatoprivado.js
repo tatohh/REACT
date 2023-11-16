@@ -8,8 +8,8 @@ class LindoGatito {
     #raza;
     #peso;
   
-    constructor(nombre, fechaNacimiento, raza, peso) {
-      if (peso < 1 || peso > 15) {
+    constructor(nombre, fechaNacimiento, raza, peso) { 
+      if (peso < 1 || peso > 15) { //TODO: valores hacerlos estatico
         throw new Error("Peso inadecuado para el gato");
       }
       this.#nombre = nombre;
